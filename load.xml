@@ -1,5 +1,2 @@
 
-<xml>
-  ss: confirmed source: MRDSS 
-  secondary source: SOMETHING
-</xml>
+<xml>ss: Confirmed source: MRDSS, secondary source: SOMETHING</xml>
